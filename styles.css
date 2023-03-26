@@ -1,0 +1,37 @@
+body {
+    margin: 150px;
+    font-family: 'Manrope';
+    background-color: #07070A;
+}
+
+fieldset {
+    border-radius: 6px;
+    border-color: #1E74F1;
+    color: #1E74F1;
+}
+
+legend {
+    font-weight: bolder;
+    font-size: 17px;
+}
+
+div {
+    margin: 10px;
+}
+
+input {
+    height: 35px;
+    outline: none;
+    background-color: transparent;
+    border: solid 1px #1E74F1;
+    border-radius: 5px;
+    color: white;
+    font-size: 17px;
+    padding-left: 7px;
+    font-weight: bold;
+
+}
+
+label {
+    font-weight: 600;
+}
